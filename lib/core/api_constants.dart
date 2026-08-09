@@ -23,8 +23,6 @@ class ApiConstants {
   static const String apiKey =
       'YOUR_REAL_KEY';
 
-
-
   static const String posterSize =
       'w500';
 
